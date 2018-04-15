@@ -36,3 +36,8 @@ html {
 #image {
   text-align: center;
 }
+#signature {
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
+}
